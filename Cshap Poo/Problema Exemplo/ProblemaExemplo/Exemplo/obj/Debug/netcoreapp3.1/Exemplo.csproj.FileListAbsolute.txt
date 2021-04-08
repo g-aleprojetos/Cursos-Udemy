@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\bin\Debug\netcoreapp3.1\Exemplo.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\bin\Debug\netcoreapp3.1\Exemplo.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\bin\Debug\netcoreapp3.1\Exemplo.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\bin\Debug\netcoreapp3.1\Exemplo.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\bin\Debug\netcoreapp3.1\Exemplo.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\bin\Debug\netcoreapp3.1\Exemplo.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\obj\Debug\netcoreapp3.1\Exemplo.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\obj\Debug\netcoreapp3.1\Exemplo.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\obj\Debug\netcoreapp3.1\Exemplo.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\obj\Debug\netcoreapp3.1\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\obj\Debug\netcoreapp3.1\Exemplo.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\obj\Debug\netcoreapp3.1\Exemplo.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Problema Exemplo\ProblemaExemplo\Exemplo\obj\Debug\netcoreapp3.1\Exemplo.genruntimeconfig.cache
