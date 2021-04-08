@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\bin\Debug\netcoreapp3.1\exercicio02.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\bin\Debug\netcoreapp3.1\exercicio02.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\bin\Debug\netcoreapp3.1\exercicio02.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\bin\Debug\netcoreapp3.1\exercicio02.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\bin\Debug\netcoreapp3.1\exercicio02.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\bin\Debug\netcoreapp3.1\exercicio02.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\obj\Debug\netcoreapp3.1\exercicio02.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\obj\Debug\netcoreapp3.1\exercicio02.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\obj\Debug\netcoreapp3.1\exercicio02.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\obj\Debug\netcoreapp3.1\exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\obj\Debug\netcoreapp3.1\exercicio02.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\obj\Debug\netcoreapp3.1\exercicio02.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\exercicio POO\ExercicioPOO\exercicio2\obj\Debug\netcoreapp3.1\exercicio02.genruntimeconfig.cache
