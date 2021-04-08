@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Estrutura Sequencial\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.genruntimeconfig.cache
