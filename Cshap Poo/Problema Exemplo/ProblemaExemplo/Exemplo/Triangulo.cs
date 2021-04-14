@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exemplo
+namespace Exemplo1
 {
     class Triangulo
     {
