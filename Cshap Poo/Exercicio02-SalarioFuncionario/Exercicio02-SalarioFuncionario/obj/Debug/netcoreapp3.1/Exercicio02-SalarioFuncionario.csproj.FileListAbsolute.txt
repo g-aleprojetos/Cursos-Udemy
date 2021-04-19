@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\bin\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\bin\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\bin\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\bin\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\bin\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\bin\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\obj\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\obj\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\obj\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\obj\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\obj\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\obj\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio02-SalarioFuncionario\Exercicio02-SalarioFuncionario\obj\Debug\netcoreapp3.1\Exercicio02-SalarioFuncionario.genruntimeconfig.cache
