@@ -18,8 +18,25 @@ namespace Loja
             Console.Write("Quantidade: ");
             p.Quantidade = int.Parse(Console.ReadLine());
 
+            Console.WriteLine();
             Console.WriteLine("dados do produto: " + p);
-            
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser adionada ao estoque: ");
+            int qte = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qte);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser removido ao estoque: ");
+            qte = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(qte);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
+
         }
     }
 }
