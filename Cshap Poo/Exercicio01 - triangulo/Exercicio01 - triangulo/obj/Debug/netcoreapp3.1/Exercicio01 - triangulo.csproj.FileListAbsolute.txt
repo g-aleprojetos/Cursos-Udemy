@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\bin\Debug\netcoreapp3.1\Exercicio01 - triangulo.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\bin\Debug\netcoreapp3.1\Exercicio01 - triangulo.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\bin\Debug\netcoreapp3.1\Exercicio01 - triangulo.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\bin\Debug\netcoreapp3.1\Exercicio01 - triangulo.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\bin\Debug\netcoreapp3.1\Exercicio01 - triangulo.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\bin\Debug\netcoreapp3.1\Exercicio01 - triangulo.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\obj\Debug\netcoreapp3.1\Exercicio01 - triangulo.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\obj\Debug\netcoreapp3.1\Exercicio01 - triangulo.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\obj\Debug\netcoreapp3.1\Exercicio01 - triangulo.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\obj\Debug\netcoreapp3.1\Exercicio01 - triangulo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\obj\Debug\netcoreapp3.1\Exercicio01 - triangulo.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\obj\Debug\netcoreapp3.1\Exercicio01 - triangulo.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Exercicio01 - triangulo\Exercicio01 - triangulo\obj\Debug\netcoreapp3.1\Exercicio01 - triangulo.genruntimeconfig.cache
