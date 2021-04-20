@@ -10,3 +10,4 @@ C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodo
 C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\obj\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.dll
 C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\obj\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.pdb
 C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\obj\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.genruntimeconfig.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\obj\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.csprojAssemblyReference.cache
