@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\obj\Debug\netcoreapp3.1\ProblemaExemplo.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\obj\Debug\netcoreapp3.1\ProblemaExemplo.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\obj\Debug\netcoreapp3.1\ProblemaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\bin\Debug\netcoreapp3.1\ProblemaExemplo.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\bin\Debug\netcoreapp3.1\ProblemaExemplo.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\bin\Debug\netcoreapp3.1\ProblemaExemplo.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\bin\Debug\netcoreapp3.1\ProblemaExemplo.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\bin\Debug\netcoreapp3.1\ProblemaExemplo.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\bin\Debug\netcoreapp3.1\ProblemaExemplo.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\obj\Debug\netcoreapp3.1\ProblemaExemplo.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\obj\Debug\netcoreapp3.1\ProblemaExemplo.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo\obj\Debug\netcoreapp3.1\ProblemaExemplo.genruntimeconfig.cache

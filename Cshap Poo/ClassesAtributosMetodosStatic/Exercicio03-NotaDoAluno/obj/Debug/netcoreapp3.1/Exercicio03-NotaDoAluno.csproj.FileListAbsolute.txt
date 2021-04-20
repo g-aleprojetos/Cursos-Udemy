@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\bin\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\bin\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\bin\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\bin\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\bin\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\bin\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\obj\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\obj\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\obj\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\obj\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\obj\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\Exercicio03-NotaDoAluno\obj\Debug\netcoreapp3.1\Exercicio03-NotaDoAluno.genruntimeconfig.cache
