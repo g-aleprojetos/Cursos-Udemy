@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\bin\Debug\netcoreapp3.1\ExemploFixacao2.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\bin\Debug\netcoreapp3.1\ExemploFixacao2.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\bin\Debug\netcoreapp3.1\ExemploFixacao2.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\bin\Debug\netcoreapp3.1\ExemploFixacao2.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\bin\Debug\netcoreapp3.1\ExemploFixacao2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\bin\Debug\netcoreapp3.1\ExemploFixacao2.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\obj\Debug\netcoreapp3.1\ExemploFixacao2.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\obj\Debug\netcoreapp3.1\ExemploFixacao2.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\obj\Debug\netcoreapp3.1\ExemploFixacao2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\obj\Debug\netcoreapp3.1\ExemploFixacao2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\obj\Debug\netcoreapp3.1\ExemploFixacao2.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\obj\Debug\netcoreapp3.1\ExemploFixacao2.genruntimeconfig.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploFixacao2\obj\Debug\netcoreapp3.1\ExemploFixacao2.csprojAssemblyReference.cache

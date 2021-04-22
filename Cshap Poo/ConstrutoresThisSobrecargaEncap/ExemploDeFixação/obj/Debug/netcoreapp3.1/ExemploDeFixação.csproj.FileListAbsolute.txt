@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\bin\Debug\netcoreapp3.1\ExemploDeFixação.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\bin\Debug\netcoreapp3.1\ExemploDeFixação.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\bin\Debug\netcoreapp3.1\ExemploDeFixação.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\bin\Debug\netcoreapp3.1\ExemploDeFixação.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\bin\Debug\netcoreapp3.1\ExemploDeFixação.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\bin\Debug\netcoreapp3.1\ExemploDeFixação.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\obj\Debug\netcoreapp3.1\ExemploDeFixação.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\obj\Debug\netcoreapp3.1\ExemploDeFixação.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\obj\Debug\netcoreapp3.1\ExemploDeFixação.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\obj\Debug\netcoreapp3.1\ExemploDeFixação.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\obj\Debug\netcoreapp3.1\ExemploDeFixação.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\obj\Debug\netcoreapp3.1\ExemploDeFixação.genruntimeconfig.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\ExemploDeFixação\obj\Debug\netcoreapp3.1\ExemploDeFixação.csprojAssemblyReference.cache
