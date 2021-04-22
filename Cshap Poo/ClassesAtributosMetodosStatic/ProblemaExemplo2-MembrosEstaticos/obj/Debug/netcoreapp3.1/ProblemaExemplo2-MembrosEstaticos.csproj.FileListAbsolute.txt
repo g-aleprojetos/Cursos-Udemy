@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\bin\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\bin\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\bin\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\bin\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\bin\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\bin\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\obj\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\obj\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\obj\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\obj\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\obj\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ClassesAtributosMetodosStatic\ProblemaExemplo2-MembrosEstaticos\obj\Debug\netcoreapp3.1\ProblemaExemplo2-MembrosEstaticos.genruntimeconfig.cache
