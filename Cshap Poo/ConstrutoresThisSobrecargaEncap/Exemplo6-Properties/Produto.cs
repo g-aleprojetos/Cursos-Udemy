@@ -31,15 +31,14 @@ namespace Exemplo6_Properties
             }
         }
         
-
-        public double GetPreco()
+        public double Preco
         {
-            return _preco;
+            get { return _preco; }
         }
-
-        public int GetQuantidade()
+ 
+        public double Quantidade
         {
-            return _quantidade;
+            get { return _quantidade; }
         }
 
         public double ValorTotalEmEstoque()

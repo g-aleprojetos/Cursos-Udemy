@@ -8,11 +8,11 @@ namespace Exemplo6_Properties
         {
             Produto p = new Produto("TV", 500.00, 10);
 
-            p.Nome = "T";
+            p.Nome = "TV 4K";
 
             Console.WriteLine(p.Nome);
-            Console.WriteLine(p.GetPreco());
-            Console.WriteLine(p.GetQuantidade());
+            Console.WriteLine(p.Preco);
+            Console.WriteLine(p.Quantidade);
         }
     }
 }
