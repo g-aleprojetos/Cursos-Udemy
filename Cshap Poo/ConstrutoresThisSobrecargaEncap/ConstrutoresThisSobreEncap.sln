@@ -5,15 +5,17 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo01", "ConstrutoresThisSobreEncap\Exemplo01.csproj", "{51AE26D6-B601-4F64-ABFB-04C516FDA46D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo2", "Exemplo2\Exemplo2.csproj", "{88E65C2C-D129-4445-BEDA-A6992DAEA527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo2", "Exemplo2\Exemplo2.csproj", "{88E65C2C-D129-4445-BEDA-A6992DAEA527}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo3", "Exemplo3\Exemplo3.csproj", "{D01CA8B2-4FC9-4624-860B-B51A828F5F9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo3", "Exemplo3\Exemplo3.csproj", "{D01CA8B2-4FC9-4624-860B-B51A828F5F9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo4-This", "Exemplo4\Exemplo4-This.csproj", "{FFCEA9AE-ADE4-4928-BBED-E9BA5032284C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo4-This", "Exemplo4\Exemplo4-This.csproj", "{FFCEA9AE-ADE4-4928-BBED-E9BA5032284C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo5-encapsulamento", "Exemplo5-encapsulamento\Exemplo5-encapsulamento.csproj", "{FE503A1A-30AB-49CE-AB8A-EBD8B6BD5A09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo5-encapsulamento", "Exemplo5-encapsulamento\Exemplo5-encapsulamento.csproj", "{FE503A1A-30AB-49CE-AB8A-EBD8B6BD5A09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo6-Properties", "Exemplo6-Properties\Exemplo6-Properties.csproj", "{962F5CDB-DEAB-4DA7-9662-04799E0CE4FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo6-Properties", "Exemplo6-Properties\Exemplo6-Properties.csproj", "{962F5CDB-DEAB-4DA7-9662-04799E0CE4FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo7-AutoProperties", "Exemplo7-AutoProperties\Exemplo7-AutoProperties.csproj", "{796F128C-79AD-4347-BC8D-38B7DA932799}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{962F5CDB-DEAB-4DA7-9662-04799E0CE4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{962F5CDB-DEAB-4DA7-9662-04799E0CE4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{962F5CDB-DEAB-4DA7-9662-04799E0CE4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796F128C-79AD-4347-BC8D-38B7DA932799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796F128C-79AD-4347-BC8D-38B7DA932799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796F128C-79AD-4347-BC8D-38B7DA932799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796F128C-79AD-4347-BC8D-38B7DA932799}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

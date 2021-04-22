@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\bin\Debug\netcoreapp3.1\Exemplo7-AutoProperties.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\bin\Debug\netcoreapp3.1\Exemplo7-AutoProperties.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\bin\Debug\netcoreapp3.1\Exemplo7-AutoProperties.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\bin\Debug\netcoreapp3.1\Exemplo7-AutoProperties.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\bin\Debug\netcoreapp3.1\Exemplo7-AutoProperties.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\bin\Debug\netcoreapp3.1\Exemplo7-AutoProperties.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\obj\Debug\netcoreapp3.1\Exemplo7-AutoProperties.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\obj\Debug\netcoreapp3.1\Exemplo7-AutoProperties.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\obj\Debug\netcoreapp3.1\Exemplo7-AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\obj\Debug\netcoreapp3.1\Exemplo7-AutoProperties.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\obj\Debug\netcoreapp3.1\Exemplo7-AutoProperties.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo7-AutoProperties\obj\Debug\netcoreapp3.1\Exemplo7-AutoProperties.genruntimeconfig.cache
