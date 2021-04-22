@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemaExemplo2-MembrosEst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemaExemplo3-MembrosEstaticos", "ProblemaExemplo3-MembrosEstaticos\ProblemaExemplo3-MembrosEstaticos.csproj", "{C74745FC-1334-4ED5-946F-D39E06741053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciodeFixacaoMeEstatico-ConversorDeDolar", "ExerciciodeFixacaoMeEstatico-ConversorDeDolar\ExerciciodeFixacaoMeEstatico-ConversorDeDolar.csproj", "{DFD2606B-6E50-4DE5-89DF-F162B2704EFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C74745FC-1334-4ED5-946F-D39E06741053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C74745FC-1334-4ED5-946F-D39E06741053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C74745FC-1334-4ED5-946F-D39E06741053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD2606B-6E50-4DE5-89DF-F162B2704EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD2606B-6E50-4DE5-89DF-F162B2704EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD2606B-6E50-4DE5-89DF-F162B2704EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD2606B-6E50-4DE5-89DF-F162B2704EFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
