@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\bin\Debug\netcoreapp3.1\Exemplo6-Properties.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\bin\Debug\netcoreapp3.1\Exemplo6-Properties.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\bin\Debug\netcoreapp3.1\Exemplo6-Properties.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\bin\Debug\netcoreapp3.1\Exemplo6-Properties.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\bin\Debug\netcoreapp3.1\Exemplo6-Properties.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\bin\Debug\netcoreapp3.1\Exemplo6-Properties.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\obj\Debug\netcoreapp3.1\Exemplo6-Properties.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\obj\Debug\netcoreapp3.1\Exemplo6-Properties.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\obj\Debug\netcoreapp3.1\Exemplo6-Properties.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\obj\Debug\netcoreapp3.1\Exemplo6-Properties.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\obj\Debug\netcoreapp3.1\Exemplo6-Properties.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo6-Properties\obj\Debug\netcoreapp3.1\Exemplo6-Properties.genruntimeconfig.cache

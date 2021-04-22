@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\bin\Debug\netcoreapp3.1\Exemplo5-encapsulamento.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\bin\Debug\netcoreapp3.1\Exemplo5-encapsulamento.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\bin\Debug\netcoreapp3.1\Exemplo5-encapsulamento.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\bin\Debug\netcoreapp3.1\Exemplo5-encapsulamento.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\bin\Debug\netcoreapp3.1\Exemplo5-encapsulamento.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\bin\Debug\netcoreapp3.1\Exemplo5-encapsulamento.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\obj\Debug\netcoreapp3.1\Exemplo5-encapsulamento.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\obj\Debug\netcoreapp3.1\Exemplo5-encapsulamento.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\obj\Debug\netcoreapp3.1\Exemplo5-encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\obj\Debug\netcoreapp3.1\Exemplo5-encapsulamento.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\obj\Debug\netcoreapp3.1\Exemplo5-encapsulamento.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\obj\Debug\netcoreapp3.1\Exemplo5-encapsulamento.genruntimeconfig.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\ConstrutoresThisSobrecargaEncap\Exemplo5-encapsulamento\obj\Debug\netcoreapp3.1\Exemplo5-encapsulamento.csprojAssemblyReference.cache
