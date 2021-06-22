@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\bin\Debug\net5.0\Nullable.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\bin\Debug\net5.0\Nullable.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\bin\Debug\net5.0\Nullable.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\bin\Debug\net5.0\Nullable.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\bin\Debug\net5.0\Nullable.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\bin\Debug\net5.0\ref\Nullable.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\bin\Debug\net5.0\Nullable.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\obj\Debug\net5.0\Nullable.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\obj\Debug\net5.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\obj\Debug\net5.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\obj\Debug\net5.0\Nullable.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\obj\Debug\net5.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\obj\Debug\net5.0\Nullable.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\obj\Debug\net5.0\ref\Nullable.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\obj\Debug\net5.0\Nullable.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Nullable\obj\Debug\net5.0\Nullable.genruntimeconfig.cache

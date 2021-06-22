@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\bin\Debug\net5.0\Vetores2.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\bin\Debug\net5.0\Vetores2.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\bin\Debug\net5.0\Vetores2.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\bin\Debug\net5.0\Vetores2.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\bin\Debug\net5.0\Vetores2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\bin\Debug\net5.0\ref\Vetores2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\bin\Debug\net5.0\Vetores2.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\obj\Debug\net5.0\Vetores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\obj\Debug\net5.0\Vetores2.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\obj\Debug\net5.0\Vetores2.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\obj\Debug\net5.0\Vetores2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\obj\Debug\net5.0\Vetores2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\obj\Debug\net5.0\ref\Vetores2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\obj\Debug\net5.0\Vetores2.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Vetores2\obj\Debug\net5.0\Vetores2.genruntimeconfig.cache

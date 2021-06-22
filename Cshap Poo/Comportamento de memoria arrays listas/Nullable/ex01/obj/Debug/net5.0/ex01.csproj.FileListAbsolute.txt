@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\bin\Debug\net5.0\ex01.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\bin\Debug\net5.0\ex01.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\bin\Debug\net5.0\ex01.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\bin\Debug\net5.0\ex01.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\bin\Debug\net5.0\ex01.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\bin\Debug\net5.0\ref\ex01.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\bin\Debug\net5.0\ex01.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\obj\Debug\net5.0\ex01.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\obj\Debug\net5.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\obj\Debug\net5.0\ex01.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\obj\Debug\net5.0\ex01.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\obj\Debug\net5.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\obj\Debug\net5.0\ex01.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\obj\Debug\net5.0\ref\ex01.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\obj\Debug\net5.0\ex01.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\ex01\obj\Debug\net5.0\ex01.genruntimeconfig.cache
