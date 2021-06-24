@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\bin\Debug\net5.0\Foreach.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\bin\Debug\net5.0\Foreach.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\bin\Debug\net5.0\Foreach.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\bin\Debug\net5.0\Foreach.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\bin\Debug\net5.0\Foreach.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\bin\Debug\net5.0\ref\Foreach.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\bin\Debug\net5.0\Foreach.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\obj\Debug\net5.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\obj\Debug\net5.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\obj\Debug\net5.0\Foreach.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\obj\Debug\net5.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\obj\Debug\net5.0\Foreach.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\obj\Debug\net5.0\ref\Foreach.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\obj\Debug\net5.0\Foreach.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\Foreach\obj\Debug\net5.0\Foreach.genruntimeconfig.cache
