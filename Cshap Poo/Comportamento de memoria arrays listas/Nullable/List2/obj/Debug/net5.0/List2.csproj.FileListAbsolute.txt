@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\bin\Debug\net5.0\List2.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\bin\Debug\net5.0\List2.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\bin\Debug\net5.0\List2.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\bin\Debug\net5.0\List2.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\bin\Debug\net5.0\List2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\bin\Debug\net5.0\ref\List2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\bin\Debug\net5.0\List2.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\obj\Debug\net5.0\List2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\obj\Debug\net5.0\List2.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\obj\Debug\net5.0\List2.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\obj\Debug\net5.0\List2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\obj\Debug\net5.0\List2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\obj\Debug\net5.0\ref\List2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\obj\Debug\net5.0\List2.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\obj\Debug\net5.0\List2.genruntimeconfig.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Comportamento de memoria arrays listas\Nullable\List2\obj\Debug\net5.0\List2.csproj.AssemblyReference.cache

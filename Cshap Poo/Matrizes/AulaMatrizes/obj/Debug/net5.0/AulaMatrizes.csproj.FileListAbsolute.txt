@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\bin\Debug\net5.0\AulaMatrizes.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\bin\Debug\net5.0\AulaMatrizes.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\bin\Debug\net5.0\AulaMatrizes.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\bin\Debug\net5.0\AulaMatrizes.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\bin\Debug\net5.0\AulaMatrizes.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\bin\Debug\net5.0\ref\AulaMatrizes.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\bin\Debug\net5.0\AulaMatrizes.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\obj\Debug\net5.0\AulaMatrizes.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\obj\Debug\net5.0\AulaMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\obj\Debug\net5.0\AulaMatrizes.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\obj\Debug\net5.0\AulaMatrizes.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\obj\Debug\net5.0\AulaMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\obj\Debug\net5.0\AulaMatrizes.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\obj\Debug\net5.0\ref\AulaMatrizes.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\obj\Debug\net5.0\AulaMatrizes.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Matrizes\AulaMatrizes\obj\Debug\net5.0\AulaMatrizes.genruntimeconfig.cache

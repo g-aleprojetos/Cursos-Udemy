@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\bin\Debug\net5.0\SwitchCase.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\bin\Debug\net5.0\SwitchCase.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\bin\Debug\net5.0\SwitchCase.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\bin\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\bin\Debug\net5.0\SwitchCase.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\obj\Debug\net5.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\obj\Debug\net5.0\SwitchCase.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\obj\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\obj\Debug\net5.0\SwitchCase.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\SwitchCase\obj\Debug\net5.0\SwitchCase.genruntimeconfig.cache

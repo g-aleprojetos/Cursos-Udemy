@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\bin\Debug\net5.0\DateTimeDataEHora.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\bin\Debug\net5.0\DateTimeDataEHora.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\bin\Debug\net5.0\DateTimeDataEHora.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\bin\Debug\net5.0\DateTimeDataEHora.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\bin\Debug\net5.0\DateTimeDataEHora.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\bin\Debug\net5.0\ref\DateTimeDataEHora.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\bin\Debug\net5.0\DateTimeDataEHora.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\obj\Debug\net5.0\DateTimeDataEHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\obj\Debug\net5.0\DateTimeDataEHora.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\obj\Debug\net5.0\DateTimeDataEHora.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\obj\Debug\net5.0\DateTimeDataEHora.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\obj\Debug\net5.0\DateTimeDataEHora.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\obj\Debug\net5.0\ref\DateTimeDataEHora.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\obj\Debug\net5.0\DateTimeDataEHora.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\DateTime\obj\Debug\net5.0\DateTimeDataEHora.genruntimeconfig.cache

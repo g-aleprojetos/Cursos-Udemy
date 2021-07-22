@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\bin\Debug\net5.0\FuncoesInteressanteParaString.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\bin\Debug\net5.0\FuncoesInteressanteParaString.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\bin\Debug\net5.0\FuncoesInteressanteParaString.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\bin\Debug\net5.0\FuncoesInteressanteParaString.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\bin\Debug\net5.0\FuncoesInteressanteParaString.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\bin\Debug\net5.0\ref\FuncoesInteressanteParaString.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\bin\Debug\net5.0\FuncoesInteressanteParaString.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\obj\Debug\net5.0\FuncoesInteressanteParaString.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\obj\Debug\net5.0\FuncoesInteressanteParaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\obj\Debug\net5.0\FuncoesInteressanteParaString.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\obj\Debug\net5.0\FuncoesInteressanteParaString.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\obj\Debug\net5.0\FuncoesInteressanteParaString.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\obj\Debug\net5.0\FuncoesInteressanteParaString.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\obj\Debug\net5.0\ref\FuncoesInteressanteParaString.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\obj\Debug\net5.0\FuncoesInteressanteParaString.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\FuncoesInteressanteParaString\obj\Debug\net5.0\FuncoesInteressanteParaString.genruntimeconfig.cache
