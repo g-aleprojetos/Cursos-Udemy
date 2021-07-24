@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\bin\Debug\net5.0\OperacaoComTimeSpan.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\bin\Debug\net5.0\OperacaoComTimeSpan.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\bin\Debug\net5.0\OperacaoComTimeSpan.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\bin\Debug\net5.0\OperacaoComTimeSpan.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\bin\Debug\net5.0\OperacaoComTimeSpan.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\bin\Debug\net5.0\ref\OperacaoComTimeSpan.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\bin\Debug\net5.0\OperacaoComTimeSpan.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\obj\Debug\net5.0\OperacaoComTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\obj\Debug\net5.0\OperacaoComTimeSpan.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\obj\Debug\net5.0\OperacaoComTimeSpan.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\obj\Debug\net5.0\OperacaoComTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\obj\Debug\net5.0\OperacaoComTimeSpan.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\obj\Debug\net5.0\ref\OperacaoComTimeSpan.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\obj\Debug\net5.0\OperacaoComTimeSpan.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacaoComTimeSpan\obj\Debug\net5.0\OperacaoComTimeSpan.genruntimeconfig.cache

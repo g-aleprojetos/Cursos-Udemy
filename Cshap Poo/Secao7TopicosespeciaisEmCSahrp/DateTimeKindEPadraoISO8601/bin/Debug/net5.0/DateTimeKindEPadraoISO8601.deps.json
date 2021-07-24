@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DateTimeKindEPadraoISO8601/1.0.0": {
+        "runtime": {
+          "DateTimeKindEPadraoISO8601.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DateTimeKindEPadraoISO8601/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

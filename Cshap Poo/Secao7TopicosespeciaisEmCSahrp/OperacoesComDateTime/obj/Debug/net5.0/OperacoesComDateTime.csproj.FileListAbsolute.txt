@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\bin\Debug\net5.0\OperacoesComDateTime.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\bin\Debug\net5.0\OperacoesComDateTime.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\bin\Debug\net5.0\OperacoesComDateTime.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\bin\Debug\net5.0\OperacoesComDateTime.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\bin\Debug\net5.0\OperacoesComDateTime.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\bin\Debug\net5.0\ref\OperacoesComDateTime.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\bin\Debug\net5.0\OperacoesComDateTime.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\obj\Debug\net5.0\OperacoesComDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\obj\Debug\net5.0\OperacoesComDateTime.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\obj\Debug\net5.0\OperacoesComDateTime.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\obj\Debug\net5.0\OperacoesComDateTime.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\obj\Debug\net5.0\OperacoesComDateTime.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\obj\Debug\net5.0\ref\OperacoesComDateTime.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\obj\Debug\net5.0\OperacoesComDateTime.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\Secao7TopicosespeciaisEmCSahrp\OperacoesComDateTime\obj\Debug\net5.0\OperacoesComDateTime.genruntimeconfig.cache
