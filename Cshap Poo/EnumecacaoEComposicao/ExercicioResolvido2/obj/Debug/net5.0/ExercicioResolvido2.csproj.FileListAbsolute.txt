@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.exe
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.deps.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\bin\Debug\net5.0\ref\ExercicioResolvido2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\obj\Debug\net5.0\ref\ExercicioResolvido2.dll
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.pdb
+C:\Users\DELL\Documents\myProjects\Cursos-Udemy\Cshap Poo\EnumecacaoEComposicao\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.genruntimeconfig.cache
